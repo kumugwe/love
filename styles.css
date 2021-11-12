@@ -1,0 +1,75 @@
+
+body{
+	background-image:url(images/pixel-heart.png);
+	color:#555;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height:1.6em;
+	margin:50px;
+}
+
+
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top:10px;
+padding-bottom: 10px;
+border-color: white;
+border-style:solid;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+a{
+	color:red;
+	text-decoration:none;
+}
+a:hover{
+	color:yellow;
+}
+
+
+
+
+
+
+
+h1{	background-color:red;
+	color:#555;
+	font-family:"Sofia", Helvetica, sans-serif;
+	font-size:15px;
+	line-height:1.6em;
+	margin:0;
+}
+.h1blue{
+	color:blue;
+}
+
+
+
+	.box {
+  border: 1px solid black;
+  padding: 30px;
+	margin:15px;
+
+}
+
+
+
+
+
+
+.box p {
+	background-image: url(images/pic2.jpg);
+  font-size: 24px;
+}
